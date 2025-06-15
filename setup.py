@@ -6,9 +6,9 @@ setup(
     description='A lightweight wrapper around pandas for loading and previewing CSVs',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    author='Your Name',
+    author='Sree Ardhanareeswaran R',
     author_email='your@email.com',
-    url='https://github.com/yourusername/eshwar-pandas',
+    url='https://github.com/Eshwarrsa/Eshwar_Pandas',
     packages=find_packages(),
     install_requires=[
         'pandas>=1.0.0'
